@@ -1,11 +1,12 @@
 body {
-    font-size: 35px;
-    font-family:"Roboto",sans-serif;
-    background-color:#FFE5B4;
+	font-family: "Roboto",sans-serif;
+	font-size: 1.2em;
+	color: ##FFE5B4;
 }
+
 h1 {
     font-family: "Roboto",sans-serif;
-    font-size: 2.5em;
+    font-size: 20px;
 }
 p {
 	font-family: "Roboto",sans-serif;
@@ -14,21 +15,21 @@ p {
 
 h2 {
    font-family:"Roboto",sans-serif;
-   font-size: 1.5em;
+   font-size: 20px;
 }
 h3 {
    font-family:"Roboto",sans-serif;
-   font-size: 1.5em;
+   font-size: 20px;
 }
 h4 {
    font-family:"Roboto",sans-serif;
-   font-size: 1.5em;
+   font-size: 20px;
 }
 a {
     color: #ff9595;
   }
 #header {
- 	 background-color: #e1e1e1;
+ 	 background-color: #FFE5B4;
  	 width: 100%;
  	 position:fixed;
  	 z-index:100;
