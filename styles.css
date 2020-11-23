@@ -1,32 +1,27 @@
 body {
-    background-color:purple;
+    background-color:#FFE5B4;
     font-family: 'Roboto',sans-serif;
 }
 h1 {
-    font-family: 'Roboto',sans-serif;
+    font-family: "Roboto",sans-serif;
     font-size: 2.5em;
-    color:#ff9595;
 }
 p {
-	font-family: 'Roboto'sans-serif;
+	font-family: "Roboto",sans-serif;
 	font-size: 1.2em;
-	color: #ff9595;
 }
 
 h2 {
-   font-family: 'Roboto'sans-serif;
+   font-family:"Roboto",sans-serif;
    font-size: 1.5em;
-   color:#ffffff;
 }
 h3 {
-   font-family: 'Roboto'sans-serif;
+   font-family:"Roboto",sans-serif;
    font-size: 1.5em;
-   color: #ffffff;
 }
 h4 {
-   font-family: 'Roboto'sans-serif;
+   font-family:"Roboto",sans-serif;
    font-size: 1.5em;
-   color: #ffffff;
 }
 a {
     color: #ff9595;
@@ -34,7 +29,6 @@ a {
 #header {
  	 background-color: #e1e1e1;
  	 width: 100%;
- 	 color: #ffffff;
  	 position:fixed;
  	 z-index:100;
  	 }
